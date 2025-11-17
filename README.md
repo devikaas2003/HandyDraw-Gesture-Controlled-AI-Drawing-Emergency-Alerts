@@ -22,5 +22,3 @@ This project demonstrates the power of computer vision, gesture recognition, and
 - Expand emergency notifications to SMS or Email
 - Mobile/web version
 
-## Installation
-...
